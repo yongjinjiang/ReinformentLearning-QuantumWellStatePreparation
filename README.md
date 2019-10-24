@@ -5,5 +5,7 @@ deep Q-learning(DQL) as well as deep deterministic policy gradient(DDPG) algorit
 
  In this repo, I present the code to solve the eigenstates and useful wave function overlaps of the problem. Besides that, I also worked on the base code of DQL from the first authors' [repo](https://github.com/vegardbs/PhD-research) and chained these two parts together to get an independent repo to solve the problem. 
  
+ A basic DQL code is ready. The DDPG code is under development.
+ 
  ## Run
    Run Main.ipynb only
